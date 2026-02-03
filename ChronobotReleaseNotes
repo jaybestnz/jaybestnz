@@ -1,4 +1,84 @@
-We have a list of features / bugs that I want to fix listed here. 
+2026-01-24
+===
+
+Batch update v1.0.2
+---
+Fix primary focus (when moving tasks up and down, you need to indent to reset the focus timer to the primary task)
+Switched focus to x (eg log it into the report)
+When clicking finish zeroes out the open tasks
+Also when click start, open tasks are not copied over
+After timer runs out, keep counting in blue
+
+Executable file extract
+
+- Linux install check
+- Mac install check
+- Self installer
+- Share source code on Github
+
+- Publish on Itch.io
+
+Batch update v1.0.21
+---
+- Blue circles on report
+- Date selector range
+- Toggles for everything (eg can hide screenshots, cam pic, etc)
+
+Add a menu
+
+About
+---
+Version and release notes
+Cognitive details
+Log a feature request / bug to Github button
+Report
+Save to clipboard
+Save as (PDF, Word)
+Batch update v1.0.3
+Add heatmap
+Date / time selection
+Personal in Report shows ALL variables, move to a top filter to add / remove
+Save as (Word,
+Think about legal audit trail (eg ability to edit and send edited timesheet, but also retain serious one)
+Black and white filter for webcam
+Toggle on / off screenshots and each of the other features if needed
+
+Batch update v1.0.4
+Move task architecture to parent / child as Google Tasks has
+Sync to Google Tasks, and Microsoft Todo
+
+Warning on the detail required for
+Chronobot - Mobile
+Need to rearchitect data to a web based back end
+Review security carefully (Lower res screenshots)
+Then move all the data to be server based
+Allow client to login and review your timesheets live
+
+Mobile version has no keystroke logging
+Gets Tasks from Google Tasks / Microsoft Todo APIs
+Start timer for client billing
+Record device details and location (to prove on site).
+
+Possibly have auto attendance open if Wifi or location is present
+(eg I can use to log as gym when at Les Mills if it sees those wifi locations)
+
+LIST OF MOBILE IDEAS
+- A prepay account tab, could be good (eg customers could assign tasks, track progress, and sign off time sheets)
+- The idea I had of voice transcription service 
+- PA conceirge service from app
+
+LIST OF UPWORK TRACKER 
+What the app tracks
+When a freelancer turns the time tracker on, a client will see:
+
+
+Images of the freelancer’s screen taken randomly 6 times an hour.
+
+Number of keystrokes, mouse clicks, and scroll actions.
+The app does not track what you click, what you type, applications you use, or webcam footage.
+
+LIST OF MANIC TIME FEATURES.
+----
 
 Note that Manic Time has the following features and would be cool to get some of this folded into Chronobot also.
 
