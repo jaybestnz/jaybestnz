@@ -1,0 +1,22 @@
+We have a list of features / bugs that I want to fix listed here. 
+
+Note that Manic Time has the following features and would be cool to get some of this folded into Chronobot also.
+
+Key features include automatic tracking, detailed reporting, offline data storage for privacy, idle time detection, and categorization of activities. 
+Key Features of ManicTime:
+Automatic Tracking: Automatically records computer usage, including which apps and websites were used and for how long.
+Detailed Reporting: Generates reports on productivity, which can be exported to Excel or CSV.
+Offline Functionality: Tracks data locally without needing an internet connection.
+Tagging and Categorization: Allows users to tag activities by project or client for precise time allocation.
+Idle Time Detection: Identifies when the user is away from the computer and allows tagging that time immediately upon return.
+Visual Timelines: Displays activity in a user-friendly day view (active vs. away time).
+Optional Screen Capture: Periodically captures screenshots to provide visual context of work sessions.
+Integrations: Integrates with tools like Jira, GitHub, Asana, and Basecamp to sync, tag, and bill tasks.
+Auto-tagging (License only): Automatically categorizes time based on predefined rules (e.g., if app is Outlook, tag as "Email").
+Privacy Focused: Data is stored locally on the user's own computer or server. 
+Advanced & Licensed Features:
+Timesheet Generation: Easily create weekly or monthly reports.
+Stopwatch/Pomodoro Timer: Manually time specific tasks.
+Advanced Search: Search through all historical data.
+Security: Password protection for data and scheduled backups.
+Git Branch Tracking: Automatically detects git repositories and branches
