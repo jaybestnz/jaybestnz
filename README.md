@@ -55,6 +55,16 @@ Chronobot is **Local-First Software**.
 
 ---
 
+## 📷 Screenshots
+
+![ChronobotScreen1.jpg](ChronobotScreen1.jpg)
+![ChronobotScreen2.jpg](ChronobotScreen2.jpg)
+![ChronobotReportPage.jpg](ChronobotReportPage.jpg)
+![Mascots1](ChronobotMascot1.png)
+![Mascots2](ChronobotMascot2.png)
+
+---
+
 ## 📦 Installation
 
 ### Windows
